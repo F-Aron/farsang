@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family:Arial;
+    font-size:10pt;
+    color:#555555;
+}
+
+#tartalom{
+    max-width: 700px;
+    margin: 0 auto;
+    
+}
+
+.salty {
+    max-width: 700px;
+    margin: 0px auto;
+    width: 100%;
+}
+
+#recept{
+    width: 700px;
+}
+
+.fank{
+    float:left;
+    max-width: 421px;
+    width: 100%;
+    margin: 0px auto;
+}
+
+#bevezeto{
+    height: 350px;
+}
+
+#hozzavalok{
+    float:left;
+    height: 289px;
+}
+
+#felsorolas{
+    padding-left: 25px;
+    margin-top: 10px;
+}
+ul{
+    line-height: 22px;
+}
+#reszletek{
+    content:" ";
+    clear:both;
+    display:table;
+}
+
+#sztori{
+    float:left;
+    width: 290px;
+    margin-left: 30px;
+}
+#elkeszites{
+    float: left;
+    width: 380px;
+    line-height: 19px;
+}
+
+#kell{
+    padding-left: 50px;
+    margin-bottom: 25px;
+}
